@@ -1,0 +1,28 @@
+﻿@page
+@model RazorWeb.Pages.Categories.IndexModel
+@{
+}
+
+<a class="btn btn-primary" asp-page="/Categories/Create">Create New Category</a>
+<table class="table table-dark">
+	<thead>
+		<tr>
+			<th scope="col">Category Name</th>
+			<th scope="col">Display Order</th>
+
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var i in Model.Categories)
+			{
+			<tr>
+				
+				<td>@i.Name</td>
+				<td>@i.DisplayOrder</td>
+				
+			</tr>
+			}
+
+
+		</tbody>
+	</table>
