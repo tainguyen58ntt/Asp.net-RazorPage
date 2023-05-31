@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\learnSelf\\career\\Asp.net core razor Project\\TaiNguyen_V1\\RazorWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\RazorWeb.bundle.scp.css"
+      "Id": "D:\\learnSelf\\career\\Asp.net core razor Project\\TaiNguyen_V1\\RazorWeb\\wwwroot\\css\\bootswatch_cyborg.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch_cyborg.css"
     },
     {
       "Id": "D:\\learnSelf\\career\\Asp.net core razor Project\\TaiNguyen_V1\\RazorWeb\\wwwroot\\css\\site.css",
